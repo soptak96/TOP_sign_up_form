@@ -34,6 +34,14 @@
     bottom: 0;
 }
 
+.brand-img small{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin-left: 13vw;
+    margin-bottom: 1vh;
+}
+
 .image-container {
     background: linear-gradient(145deg, #1F2937, #41536e);
     width: 40%;
